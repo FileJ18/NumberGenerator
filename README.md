@@ -1,2 +1,3 @@
 # NumberGenerator
 Oh also its simple because its meant for my school.
+Also exe too big. Compile with Pyinstaller...
